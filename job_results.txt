@@ -1,0 +1,36 @@
+Job: Python Developer at TechCorp
+Link: http://example.com/job1
+Cover Letter:
+
+    professional cover letter for the job 'Python Developer' at TechCorp'.
+    The candidate has the following resume details: 
+    Experienced Python Developer with skills in data analysis, machine learning, and AI projects.
+    Familiar with Flask, SQL, and automation frameworks.
+    .
+                                                                                                                                                                                                                                                                    
+==================================================
+
+Job: Data Analyst at DataWorks
+Link: http://example.com/job2
+Cover Letter:
+
+    professional cover letter for the job 'Data Analyst' at DataWorks'.
+    The candidate has the following resume details: 
+    Experienced Python Developer with skills in data analysis, machine learning, and AI projects.
+    Familiar with Flask, SQL, and automation frameworks.
+    .
+                                                                                                                                                                                                                                                                    
+==================================================
+
+Job: AI Engineer at InnovateAI
+Link: http://example.com/job3
+Cover Letter:
+
+    professional cover letter for the job 'AI Engineer' at InnovateAI'.
+    The candidate has the following resume details: 
+    Experienced Python Developer with skills in data analysis, machine learning, and AI projects.
+    Familiar with Flask, SQL, and automation frameworks.
+    .
+                                                                                                                                                                                                                                                                    
+==================================================
+
